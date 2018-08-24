@@ -36,3 +36,23 @@ INSERT INTO users(username, password) VALUES('user', 'secret');
 ```
 
 
+
+
+# Node Express install
+```cmd 
+npm install express
+```
+#### Install Express site skeleton
+```cmd
+npm install express-generator -g
+```
+#### Install site rendering engine
+```cmd
+express -v ejs mysite
+```
+#### Install required modules
+
+```cmd
+npm install 
+
+
